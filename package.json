@@ -12,7 +12,7 @@
     "predeploy": "npm run build",
     "deploy": "gh-pages -d build"
   },
-  "homepage": "https://kassito/CalendDrunks-test/",
+  "homepage": "https://kassito.github.io/CalendDrunks-test/",
   "dependencies": {
     "lucide-react": "^0.344.0",
     "react": "^18.3.1",
